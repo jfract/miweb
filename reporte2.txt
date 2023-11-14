@@ -1,0 +1,6 @@
+<INICIO>
+1. Obtener datos de fuente origen
+2. Obtener ventas del día
+	2.1. Filtrar ventas del sector in ('Lima' ,'Cusco', 'Arequipa')
+3. Mostrar detalle de ventas de día
+<FIN>
